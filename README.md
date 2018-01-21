@@ -4,7 +4,7 @@ My solutions for the [Ninety-nine Problems, Solved in Elm](https://www.gitbook.c
 
 ## How to run this shit?
 
-1. Intsall elm
+1. [Intsall elm](https://guide.elm-lang.org/install.html)
 2. `cd path/to/99-problems-elm`
 3. `elm-reactor`
 4. Open [localhost:8000](http://localhost:8000/)
